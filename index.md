@@ -1,6 +1,3 @@
-- [ ] Abrir pull request
-- [ ] Insert taks list
-- [ ] commit changes
 ```
 $ Exit 42
 close the process and return 42 to check it echo $?
